@@ -38,7 +38,7 @@ Lab03_ImageEnhancing/
 ### 1️⃣ Bước 1: Tạo môi trường ảo
 Mở **Command Prompt (hoặc PowerShell)** tại thư mục chứa file `lab03_app.py`, rồi gõ:
 ```bash
-python -m venv venv
+python -m venv env
 ```
 
 ### 2️⃣ Bước 2: Kích hoạt môi trường ảo
