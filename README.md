@@ -90,6 +90,6 @@ streamlit run lab03_app.py
 ---
 
 ## 👨‍💻 Người thực hiện
-- **Tên:** (Điền tên sinh viên)  
-- **MSSV:** (Điền mã số sinh viên)  
-- **Lớp:** (Điền lớp học phần)  
+- **Tên:** Lê Dương Minh Thiên 
+- **MSSV:** 22521386
+- **Lớp:** CS406.Q11
